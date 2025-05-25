@@ -63,7 +63,7 @@
     "react-native-safari-view": "naoufal/react-native-safari-view#master",
     "react-native-safe-area-context": "3.1.9",
     "react-native-screens": "~2.15.2",
-    "react-native-svg": "12.1.0",
+    "react-native-svg": "12.5.1",
     "react-native-tab-view": "^2.13.0",
     "react-native-web": "^0.15.0"
   },
